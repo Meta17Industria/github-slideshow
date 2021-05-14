@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to my suffering slide!"
 ---
-Mi texto
+Que es la vida si no es sufrimiento- dijo nadie nunca
 aaAAAAAA
